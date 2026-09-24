@@ -167,9 +167,3 @@ python self_consistency.py
 * More reasoning generally improves accuracy but increases response length and computational cost.
 
 ---
-
-## Author
-
-**Abarna T**
-B.Tech Information Technology
-AI Fluency Course – Day 2 Assignment
